@@ -8,4 +8,4 @@ dddd
 dev   dev
 
 
-fff
+Creating a new branch is quick & simple.
